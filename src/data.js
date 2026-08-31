@@ -24,13 +24,13 @@ export const profile = {
 export const about = [
   `I am an undergraduate student in Data Science and Big Data Technology at
    <a href="https://www.stu.edu.cn/" target="_blank" rel="noopener noreferrer">Shantou University</a>.
-   My current research focuses on machine learning for structured and biomedical data.`,
-  `I am particularly interested in hypergraph learning, evidence fusion,
-   few-shot adaptation, and reliable learning from complex data. My recent
-   work studies structural-evidence perturbation for hyperedge prediction and
-   parameter-efficient adaptation for motor-imagery EEG decoding.`,
-  `I enjoy turning research ideas into carefully evaluated systems. I am open
-   to research collaboration and can be reached by
+   My research interests broadly lie in graph machine learning and representation learning.`,
+  `My recent work focuses on learning from complex structured data, including
+   structural learning for hyperedge prediction and parameter-efficient adaptation
+   for motor-imagery EEG decoding. I am particularly interested in developing
+   learning methods that capture meaningful structure beyond conventional feature representations.`,
+  `I am always glad to hear from people working on related problems in graph learning,
+   representation learning, and machine learning for scientific data. You can reach me by
    <a href="mailto:24jxchen5@stu.edu.cn">email</a>.`,
 ];
 
