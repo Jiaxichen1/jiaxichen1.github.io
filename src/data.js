@@ -40,7 +40,7 @@ export const news = [];
 export const education = [
   {
     org: "Shantou University",
-    role: "Bachelor of Engineering in Data Science and Big Data Technology · GPA: 3.97/5.0 (top 10%) · Average score: 89.7/100",
+    role: "Bachelor of Engineering in Data Science and Big Data Technology · Top 10%",
     date: "Sep. 2024 - Jun. 2028 (expected)",
     url: "https://www.stu.edu.cn/",
     logo: shantouLogo,
