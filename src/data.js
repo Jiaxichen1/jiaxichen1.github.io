@@ -78,8 +78,8 @@ export const experience = [
   {
     org: "Structural-Evidence Perturbation for Hyperedge Prediction",
     desc: "Developed SEP-HP to address hard negatives that static overlap and co-occurrence cannot distinguish. Designed SEDR to model candidate-specific structural dependencies and integrated risk-aware gated refinement. Evaluation across six hypergraph benchmarks and four negative-sampling protocols achieved the best average AUROC/AP on all six datasets.",
-    roleHtml:
-      'Project Lead, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), <a href="https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=9610860646987207346" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China</a>)',
+    role:
+      "Project Lead, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China)",
     date: "Mar. 2026 - Jul. 2026",
   },
   {
@@ -92,8 +92,8 @@ export const experience = [
   {
     org: "COVID-19 Excess Disease Burden Forecasting Based on GBD Data",
     desc: "Built standardized longitudinal datasets for incidence, mortality, and DALY indicators. Developed a hybrid counterfactual forecasting model and compared expected trajectories with observed 2020-2023 data to quantify excess disease burden associated with the pandemic.",
-    roleHtml:
-      'Group Member, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), <a href="https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=9610860646987207346" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China</a>)',
+    role:
+      "Research Group Member, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China)",
     date: "Sep. 2025 - Mar. 2026",
   },
 ];

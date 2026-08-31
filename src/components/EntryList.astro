@@ -51,11 +51,7 @@ const withLogo = items.some((e) => e.logo);
           {/* Description first, advisor second: say what the thing is before
               saying who supervised it. */}
           {e.desc && <p class="entry-desc">{e.desc}</p>}
-          {e.roleHtml ? (
-            <p class="entry-role muted" set:html={e.roleHtml} />
-          ) : (
-            e.role && <p class="entry-role muted">{e.role}</p>
-          )}
+          {e.role && <p class="entry-role muted">{e.role}</p>}
           {/* The same outlined buttons the publication list uses, so a project
               with code and docs reads like a paper with a PDF and a repo. */}
           {e.links?.length > 0 && (
