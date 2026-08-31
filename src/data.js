@@ -17,7 +17,7 @@ export const profile = {
   photo,
   links: [
     { label: "Email", href: "mailto:24jxchen5@stu.edu.cn" },
-    { label: "GitHub", href: "https://github.com/garylovemark" },
+    { label: "GitHub", href: "https://github.com/Jiaxichen1" },
     { label: "CV (PDF)", href: CV_URL, newTab: true },
   ],
 };
