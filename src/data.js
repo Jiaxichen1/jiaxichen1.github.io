@@ -51,7 +51,7 @@ export const publications = [
   {
     title: "Structural-Evidence Perturbation Learning for Hyperedge Prediction",
     authors: "<strong>Jiaxi Chen</strong>, Zichun Lin, Dan Yang, et al.",
-    venue: "Under review at the <em>41st AAAI Conference on Artificial Intelligence (AAAI 2027, CCF-A)</em>",
+    venue: "Under Review at CCF-A conference",
   },
   {
     title: "SPD: Side-Path Decoupled Adaptation for Few-Shot Motor Imagery EEG Decoding",
