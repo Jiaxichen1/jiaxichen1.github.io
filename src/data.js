@@ -2,6 +2,7 @@
 // Empty arrays are hidden automatically by the page template.
 
 import photo from "./assets/photo.jpg";
+import shantouLogo from "./assets/logos/shantou-university.png";
 
 export const CV_URL = "Jiaxi_Chen_CV_Aug2026.pdf";
 
@@ -42,6 +43,7 @@ export const education = [
     role: "Bachelor of Engineering in Data Science and Big Data Technology · GPA: 3.97/5.0 (top 10%) · Average score: 89.7/100",
     date: "Sep. 2024 - Jun. 2028 (expected)",
     url: "https://www.stu.edu.cn/",
+    logo: shantouLogo,
   },
 ];
 
