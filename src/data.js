@@ -78,19 +78,22 @@ export const experience = [
   {
     org: "Structural-Evidence Perturbation for Hyperedge Prediction",
     desc: "Developed SEP-HP to address hard negatives that static overlap and co-occurrence cannot distinguish. Designed SEDR to model candidate-specific structural dependencies and integrated risk-aware gated refinement. Evaluation across six hypergraph benchmarks and four negative-sampling protocols achieved the best average AUROC/AP on all six datasets.",
-    role: "Project Lead",
+    roleHtml:
+      'Project Lead, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), <a href="https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=9610860646987207346" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China</a>)',
     date: "Mar. 2026 - Jul. 2026",
   },
   {
     org: "Side-Path Decoupled Adaptation for Motor-Imagery EEG Decoding",
     desc: "Designed a lightweight side-path adapter that preserves the pretrained main route during few-shot adaptation. The approach uses a shallow convolutional side encoder, zero-initialized residual injection, stop-gradient alignment, and an auxiliary loss, improving mean accuracy across three public MI datasets with 2.13% additional parameters.",
-    role: "Project Lead",
+    role:
+      "Project Lead, with Prof. Nankai Lin (Guangdong University of Foreign Studies) and Zhengming Chen (Shantou University)",
     date: "May 2026 - Jul. 2026",
   },
   {
     org: "COVID-19 Excess Disease Burden Forecasting Based on GBD Data",
     desc: "Built standardized longitudinal datasets for incidence, mortality, and DALY indicators. Developed a hybrid counterfactual forecasting model and compared expected trajectories with observed 2020-2023 data to quantify excess disease burden associated with the pandemic.",
-    role: "Research Group Member",
+    roleHtml:
+      'Group Member, advised by Prof. Dan Yang and Jiajun Xian (Yangtze Delta Region Institute (Quzhou), <a href="https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=9610860646987207346" target="_blank" rel="noopener noreferrer">University of Electronic Science and Technology of China</a>)',
     date: "Sep. 2025 - Mar. 2026",
   },
 ];
