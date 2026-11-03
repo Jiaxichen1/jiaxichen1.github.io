@@ -56,12 +56,12 @@ export const publications = [
   {
     title: "SPD: Side-Path Decoupled Adaptation for Few-Shot Motor Imagery EEG Decoding",
     authors: "<strong>Jiaxi Chen</strong>, Jiahui Zhong, Zhifeng Hao, et al.",
-    venue: "Under review at the <em>IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2026, CCF-B)</em>",
+    venue: "Under review at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027, CCF-B)</em>",
   },
   {
     title: "Dual-View Fuzzy Membership and Candidate-Adaptive Multi-Source Evidence Fusion for Hyperedge Prediction",
     authors: "Zichun Lin, <strong>Jiaxi Chen</strong>, Dan Yang, et al.",
-    venue: "Under review at the <em>15th International Conference on Learning Representations (ICLR 2027, CCF-A)</em>",
+    venue: "Under review at CCF-A conference",
   },
 ];
 
@@ -113,9 +113,13 @@ export const awards = [
     org: "Third Prize, 2025 CUMCM (Guangdong Province)",
     date: "Oct. 2025",
   },
+   {
+    org: "First Prize, 2026 CUMCM (National Award)",
+    date: "Oct. 2025",
+  },
   {
     org: "Special Talent Scholarship, Shantou University",
-    date: "Dec. 2024",
+    date: "Dec. 2024, Dec. 2025",
   },
 ];
 
