@@ -54,15 +54,16 @@ export const publications = [
     venue: "Under Review at CCF-A conference",
   },
   {
-    title: "SPD: Side-Path Decoupled Adaptation for Few-Shot Motor Imagery EEG Decoding",
-    authors: "<strong>Jiaxi Chen</strong>, Jiahui Zhong, Zhifeng Hao, et al.",
-    venue: "Under review at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027, CCF-B)</em>",
-  },
-  {
     title: "Dual-View Fuzzy Membership and Candidate-Adaptive Multi-Source Evidence Fusion for Hyperedge Prediction",
     authors: "Zichun Lin, <strong>Jiaxi Chen</strong>, Can Zhou, et al.",
     venue: "Under review at CCF-A conference",
   },
+  {
+    title: "SPD: Side-Path Decoupled Adaptation for Few-Shot Motor Imagery EEG Decoding",
+    authors: "<strong>Jiaxi Chen</strong>, Jiahui Zhong, Zhifeng Hao, et al.",
+    venue: "Under review at the <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027, CCF-B)</em>",
+  },
+  
 ];
 
 export const patents = [
