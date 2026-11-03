@@ -111,16 +111,16 @@ export const awards = [
     date: "Nov. 2025",
   },
   {
+    org: "Special Talent Scholarship, Shantou University",
+    date: "Dec. 2024, Dec. 2025",
+  },
+  {
     org: "Third Prize, 2025 CUMCM (Guangdong Province)",
     date: "Oct. 2025",
   },
    {
     org: "First Prize, 2026 CUMCM (National Award)",
     date: "Nov. 2026",
-  },
-  {
-    org: "Special Talent Scholarship, Shantou University",
-    date: "Dec. 2024, Dec. 2025",
   },
 ];
 
