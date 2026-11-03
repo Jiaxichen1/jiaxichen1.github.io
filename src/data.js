@@ -68,7 +68,7 @@ export const publications = [
 export const patents = [
   {
     org: "A Multi-Class Classification Method for Medical Data Based on Intuition-Driven Fuzzy Least Squares",
-    role: "Jiajun Xian, Li Qi, Can Zhou, Jiaxi Chen, et al. · Invention Patent 202610640838.X · Preliminary review passed",
+    role: "Jiajun Xian, Li Qi, Can Zhou, <strong>Jiaxi Chen</strong>, et al. · Invention Patent 202610640838.X · Preliminary review passed",
   },
 ];
 
@@ -115,7 +115,7 @@ export const awards = [
   },
    {
     org: "First Prize, 2026 CUMCM (National Award)",
-    date: "Oct. 2025",
+    date: "Nov. 2026",
   },
   {
     org: "Special Talent Scholarship, Shantou University",
