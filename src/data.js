@@ -60,7 +60,7 @@ export const publications = [
   },
   {
     title: "Dual-View Fuzzy Membership and Candidate-Adaptive Multi-Source Evidence Fusion for Hyperedge Prediction",
-    authors: "Zichun Lin, <strong>Jiaxi Chen</strong>, Dan Yang, et al.",
+    authors: "Zichun Lin, <strong>Jiaxi Chen</strong>, Can Zhou, et al.",
     venue: "Under review at CCF-A conference",
   },
 ];
