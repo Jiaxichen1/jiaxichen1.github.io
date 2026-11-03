@@ -25,7 +25,7 @@ export const profile = {
 export const about = [
   `I am an undergraduate student in Data Science and Big Data Technology at
    <a href="https://www.stu.edu.cn/" target="_blank" rel="noopener noreferrer">Shantou University</a>.
-   My research interests broadly lie in graph machine learning and representation learning.`,
+   My research interests broadly lie in graph machine learning and bioinformatics.`,
   `My recent work focuses on learning from complex structured data, including
    structural learning for hyperedge prediction and parameter-efficient adaptation
    for motor-imagery EEG decoding. I am particularly interested in developing
